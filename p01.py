@@ -1,3 +1,3 @@
 x = 3
-prnit("danial")
-
+if 3 < 4:
+    print("danialkamali")
